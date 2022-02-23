@@ -1,0 +1,6 @@
+@echo off
+title MBR
+call mbr.bat
+cls
+echo Bios Error
+pause
