@@ -1,0 +1,17 @@
+echo ^<List^>
+echo cls
+echo compatible
+echo config
+echo help
+echo history
+echo information
+echo list
+echo logdate
+echo logout
+echo marker
+echo rdlog
+echo sfc
+echo sound
+echo time
+echo version
+echo exit
