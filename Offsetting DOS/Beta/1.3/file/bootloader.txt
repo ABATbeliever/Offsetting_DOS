@@ -1,0 +1,8 @@
+@echo off
+echo Bootloader V2.2
+cls
+title MBR
+call mbr.bat
+cls
+echo BIOS Error
+pause
